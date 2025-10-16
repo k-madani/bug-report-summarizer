@@ -4,6 +4,8 @@ peft
 accelerate
 evaluate
 rouge-score
-gradio
-torch
+sacrebleu
 sentencepiece
+gradio
+scikit-learn
+pandas

@@ -1,16 +1,10 @@
-# notebooks & caches
 .ipynb_checkpoints/
 __pycache__/
 .DS_Store
-
-# training artifacts
 results/
-checkpoints/
 runs/
-logs/
+checkpoints/
 *.pt
 *.bin
 *.safetensors
-
-# local data
 data/
